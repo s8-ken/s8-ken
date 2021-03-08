@@ -1,4 +1,5 @@
 # Profile
+![image](https://user-images.githubusercontent.com/19276680/110318901-747d3100-8051-11eb-9ec5-60093dfc807e.png)
 
 Kentaro Shibata(shiba-ken)
 
@@ -12,7 +13,7 @@ Currently I'm building private cloud-native e2e EPS with raspberry pi cluster.
 - [Twitter](https://twitter.com/s8_ken/)
 - [LinkedIn](https://www.linkedin.com/in/s8-ken)
 - [last.fm](https://www.last.fm/user/s8_ken)
-- 
+
 <!--
 **s8-ken/s8-ken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
